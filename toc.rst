@@ -13,18 +13,3 @@
 
 .. |space| unicode:: U+0020 .. space
 
-
-
-Templates
-==========
-
-.. toctree::
-    :maxdepth: 2
-    :glob:
-
-
-
-
-
-Index
-========
