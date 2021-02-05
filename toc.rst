@@ -7,7 +7,7 @@
 
     Home <index.ipynb>
     
-    Sample Examx <sample_exams.ipynb> 
+    Sample Exams <sample_exams.ipynb> 
 
 |space|
 ==========
