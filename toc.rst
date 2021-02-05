@@ -6,7 +6,8 @@
     :glob:
 
     Home <index.ipynb>
- 
+    
+    Sample Examx <sample_exams.ipynb> 
 
 |space|
 ==========
